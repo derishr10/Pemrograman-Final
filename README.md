@@ -1,5 +1,11 @@
 # Pemrograman-Final
-web ini saya desain menggunakan PHP 7, apabila menggunakan PHP 8.
+Username : admin
+password : 123456
+
+username : user
+password : 123456
+
+web ini saya desain menggunakan PHP 7, apabila menggunakan PHP 8. dan sudah terbiasa menggunakan proses login dan logout.
 siapa tau muncul erorr seperti ini :
 "fatal error: cannot redeclare str_contains() in C:xampp\htdocs\inventarisbarang\helpers\function.php on line 524"
 ketika dijalankan.
